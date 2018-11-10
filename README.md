@@ -1,6 +1,6 @@
 # tkCrawler
 ### 一个使用python的tkinter编写的图形化爬取网页文章的工具
-![picture] （https://github.com/liyuanhong/tkCrawler/blob/master/example.png）
+![图片加载失败](./example.png)
 
 ### 使用方法
 + 启动运行start.py
